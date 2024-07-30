@@ -1,4 +1,4 @@
-# Project Title
+# Aquarium
 
 <!--배지-->
 ![MIT License][license-shield] ![Repository Size][repository-size-shield] ![Issue Closed][issue-closed-shield]
